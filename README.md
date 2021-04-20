@@ -1,2 +1,4 @@
-# helloWord
- Primeiro repositorio do curso Git, GItHub
+# Hello, Word!
+ Primeiro repositorio do curso Git, GitHub.
+
+ Repositorio criado durante a aula! 
